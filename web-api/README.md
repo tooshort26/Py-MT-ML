@@ -1,4 +1,4 @@
-To use this API please be sure that you have an internet connection \nthe android device and laptop must connected to same router or wifi \nFollow this instructions.
+To use this API please be sure that you have an internet connection the android device and laptop must connected to same router or wifi follow this instructions.
 1. Open your android project in android studio.
 2. Navigate to res > values then find strings.xml'
 3. Find this item <string name="kamayoBaseUrl">http://192.168.1.6:5000/</string>
