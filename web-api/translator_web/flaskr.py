@@ -81,7 +81,7 @@ def not_found(error):
 def main():
     hostname = socket.gethostname()
     IP = socket.gethostbyname(hostname)
-    app.run(host=IP)
+    app.run()
 
 
 if __name__ == '__main__':
