@@ -1,1 +1,1 @@
-web: gunicorn deploy:/translator_web/flaskr.py
+web: gunicorn deploy:app
