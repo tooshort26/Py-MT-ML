@@ -2,8 +2,8 @@ import socket
 from flask import Flask, request, send_from_directory, redirect, render_template, flash, url_for, jsonify, \
     make_response, abort
 
-from eng_to_kamayo_word_translator_predict import EngToKamayoTranslator
-from kamayo_to_eng_word_translator_predict import KamayoToEngTranslator
+from .translator_web.eng_to_kamayo_word_translator_predict import EngToKamayoTranslator
+from .translator_web.kamayo_to_eng_word_translator_predict import KamayoToEngTranslator
 
 app = Flask(__name__)
 app.config.from_object(__name__)  # load config from this file , flaskr.py
