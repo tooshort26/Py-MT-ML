@@ -97,7 +97,7 @@ class CebToKamayoTranslator(object):
             target_seq = np.zeros((1, 1, self.num_decoder_tokens))
             target_seq[0, 0, sample_token_idx] = 1
             states_value = [h, c]
-
+            print(target_text)
         return target_text.strip()
 
 

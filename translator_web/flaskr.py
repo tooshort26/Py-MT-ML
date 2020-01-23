@@ -2,10 +2,15 @@ import socket
 from flask import Flask, request, send_from_directory, redirect, render_template, flash, url_for, jsonify, \
     make_response, abort
 
+from googletrans import Translator
 from .eng_to_kamayo_word_translator_predict import EngToKamayoTranslator
 from .kamayo_to_eng_word_translator_predict import KamayoToEngTranslator
 from .kamayo_to_ceb_word_translator_predict import KamayoToCebTranslator
 from .ceb_to_kamayo_word_translator_predict import CebToKamayoTranslator
+# from eng_to_kamayo_word_translator_predict import EngToKamayoTranslator
+# from kamayo_to_eng_word_translator_predict import KamayoToEngTranslator
+# from kamayo_to_ceb_word_translator_predict import KamayoToCebTranslator
+# from ceb_to_kamayo_word_translator_predict import CebToKamayoTranslator
 
 app = Flask(__name__)
 app.config.from_object(__name__)  # load config from this file , flaskr.py
@@ -19,6 +24,7 @@ eng_to_kamayo_w = EngToKamayoTranslator()
 kamayo_to_eng_w = KamayoToEngTranslator()
 kamayo_to_ceb_w = KamayoToCebTranslator()
 ceb_to_kamayo_w = CebToKamayoTranslator()
+translator = Translator()
 
 
 @app.route('/')
@@ -65,10 +71,8 @@ def translate_eng():
         sentence = request.json['sentence']
         level = request.json['level']
         target_text = sentence
-        print(request)
 
     if level == 'word' and target_lang == 'kamayo':
-        # target_text = eng_to_kamayo_w.translate_lang(sentence)
         cebu_translated = kamayo_to_ceb_w.translate_lang(sentence)
         english_translated = kamayo_to_eng_w.translate_lang(sentence)
 
@@ -81,7 +85,8 @@ def translate_eng():
     elif level == 'word' and target_lang == 'english':
         # target_text = kamayo_to_eng_w.translate_lang(sentence)
         kamayo_translated = eng_to_kamayo_w.translate_lang(sentence)
-        cebu_translated = kamayo_to_ceb_w.translate_lang(kamayo_translated)
+        cebu_result = translator.translate(sentence,src='en', dest='ceb')
+        cebu_translated = cebu_result.text
 
         return jsonify({
             'sentence': sentence,
@@ -91,7 +96,8 @@ def translate_eng():
 
     elif level == 'word' and target_lang == 'ceb':
         kamayo_translated = ceb_to_kamayo_w.translate_lang(sentence)
-        english_translated = kamayo_to_eng_w.translate_lang(kamayo_translated)
+        english_result = translator.translate(sentence, src='ceb', dest='en')
+        english_translated = english_result.text
 
         return jsonify({
             'sentence': sentence,
@@ -107,7 +113,7 @@ def not_found(error):
 def main():
     hostname = socket.gethostname()
     IP = socket.gethostbyname(hostname)
-    app.run()
+    app.run(IP)
 
 
 if __name__ == '__main__':
