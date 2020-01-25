@@ -78,8 +78,8 @@ def translate_eng():
 
         return jsonify({
             'sentence': sentence,
-            'first_output' : cebu_translated + '-cebu',
-            'second_output' : english_translated + '-english',
+            'first_output' : cebu_translated + '|cebu',
+            'second_output' : english_translated + '|english',
         })
 
     elif level == 'word' and target_lang == 'english':
@@ -90,8 +90,8 @@ def translate_eng():
 
         return jsonify({
             'sentence': sentence,
-            'first_output' : cebu_translated + '-cebu',
-            'second_output' : kamayo_translated + '-kamayo',
+            'first_output' : cebu_translated + '|cebu',
+            'second_output' : kamayo_translated + '|kamayo',
         })
 
     elif level == 'word' and target_lang == 'ceb':
@@ -101,8 +101,8 @@ def translate_eng():
 
         return jsonify({
             'sentence': sentence,
-            'first_output' : english_translated + '-english',
-            'second_output' : kamayo_translated + '-kamayo',
+            'first_output' : english_translated + '|english',
+            'second_output' : kamayo_translated + '|kamayo',
         })
 
 @app.errorhandler(404)
