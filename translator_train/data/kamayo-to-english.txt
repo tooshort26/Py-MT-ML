@@ -12332,3 +12332,736 @@ aparador	cabinet
 mapaso	hot
 maripa	dirty
 maduggom	dark
+ako	i
+ikaw	you
+kanak	mine
+kanato	ours
+kaniran	their
+sian	he
+sian	she
+kanmo	yours
+kaan	eat
+turo	sleep
+dagan	run
+panik	enter
+yahigugma	inlove
+panaw	walk
+tanaw	see
+hawid	touch
+yadungog	hear
+yakalingaw	forget
+yahingaw	drunk
+yahuog	fall
+hikowo	laugh
+tiyaho	cry
+gihud	follow
+tiyab	talk
+matigam	know
+yaghikay	prepare
+daigay	many
+daigay	much
+badi	big
+badihay	very big
+gwapa	beautiful
+gwapahay	very beautiful
+gamay	small
+gamay	little
+gamayay	very small
+hinood	old
+kusogay	fast
+bugatay	heavy
+maraat	ugly
+maraat	ugly
+maraatay	very ugly
+gawot	greedy
+gawot	greedy
+tignaw	cold
+mapaso	hot
+harapit	near
+harayo	far
+maripa	dirty
+maduggom	dark
+duon	now
+kisuom	tomorrow
+duom	night
+duom	evening
+yaan	that
+ini	this
+kagabi	yesterday
+samukay	disorderly
+gaya da	later on
+sa dangay	never
+nanga sa	why
+uno sa	what
+wara	none
+wara da	no more
+hambong	afternoon
+sugba	grill
+here	adi
+here	ngani
+there	ngadto
+nothing	ampan
+nothing	wara
+have	aron
+maybe	basin
+put	butang
+where	hain
+that	idtu
+i dont know	inday
+this	ini
+this	ngini
+that is	itun
+take	kamang
+when	kinu
+good	madayaw
+ugly	maraat
+why	nanga sa
+how much	pila
+who	sinu
+who	sinu
+give	tagi
+how	unuhon
+none	wara
+child	isu
+nose	irong
+yes	huo
+no	diri
+face	bayho
+hand	alima
+foot	siki
+thigh	paa
+opaw	skinhead
+kompyuter	computer
+selpon	cellphone
+laptop	laptop
+plato	plate
+yagkanta	sing
+yasayaw	dance
+habol	blanket
+bangko	chair
+bintana	window
+ambaw	rat
+ayuk	witchcraft
+yadaman	anger
+hang	hot
+yahadok	afraid
+putot	short
+huya	reside
+inday	clueless
+yadungog	heard
+bukid	farm
+isu	child
+kanmo	yours
+kanami	ours
+kanaan	his
+kanaan	her
+hug	fall
+kuding	cat
+ido	dog
+sili	pepper
+kanak	mine
+kahadukan	feared
+ikuha	get
+kaig	thin
+yakalingaw	to forget
+siki	foot
+yaggukod	chase
+ton	swallow
+laong	say
+lang a	tell
+butong	coconut
+maraat	ugly
+maripa	dirty
+yawara	lost
+tug	sleep
+masipog	shy of
+klarohay	clear
+magtagad	to wait
+matiyab	talkative
+isug	strong
+brayt	intelligent
+malisud	hard
+pangan	name
+sipug	shame
+sandok	laddle
+dung ag	cook
+sirib	peep
+yapagod	overcook
+utan	dish
+hatagi	give
+tigam	know
+uwan	rain
+yawa	lost
+yadaman	get angry
+gatiyahu	crying
+yagpanaw	walking
+yagkamang	crawling
+bayot	gay
+maestra	teacher
+maestro	teacher
+daraga	lady
+ulitawo	gentleman
+editor	editor
+calculator	calculator
+x ray	x ray
+zipper	zipper
+wifi	wifi
+mga utaw	people
+abre	open
+biya	leave
+basa	read
+dayaw	keep
+dakop	catch
+dapay	slap
+dagpi	spank
+katkat	climb
+drowing	draw
+kita	see
+kagud	grate
+laba	wash
+lakso	hop
+lugpat	jump
+langoy	swim
+panaw	roam
+sugbo	bath
+palit	buy
+panaw	walk
+sayaw	dance
+sira	close
+sukbot	wear
+suwat	write
+tan aw	look
+tuon	teach
+tugpa	dive
+tuon	study
+turog	sleep
+karsada	road
+abil	lips
+bayhu	face
+hatsa	ax
+tubo	sugarcane
+unggoy	monkey
+ambaw	mouse
+awug	creek
+samin	mirror
+espiso	sticky
+atubangan	front
+engkantada	fairy
+ikug	tail
+idi	it s here
+irung	nose
+irok	armpit
+pasayan	shrimp
+ompu	grandfather
+isbog	move
+utok	brain
+utod	cut
+bado	dress
+baroto	boat
+batiis	leg
+burak	flower
+burad	dried fish
+daig	plenty
+diri	no
+lasang	forest
+ginamos	caviar
+ugat	root
+hurot	all
+hurmigas	ant
+humay	rice grain
+hatsa	ax
+harigi	pillar
+kagang	crab
+kiray	eyebrow
+kamang	crawl
+kisum	tomorrow
+lanot	abaca fiber
+lamparilya	lamp
+palengke	market
+magurang	ripe
+baliti	balite tree
+nigo	winnower
+kabaw	cow
+ngilo	gum
+ngaon	there
+ngisi	smile
+ngadi	here
+ngaran	name
+payag	hut
+bukog	bone
+piyagit	shout
+buak	broken
+rabak	throw
+guba	damaged
+raspa	haircut
+rabnot	grab
+taklob	cover
+sudlay	comb
+samad	wound
+sinturon	belt
+sagbot	grass
+suwa	lemon
+tabako	tobacco
+tibuok	whole
+turong	head cover
+tirador	slingshot
+tipasi	grain
+tilaw	taste
+wati	earthworm
+wakwak	witch
+yahukad	spilled
+yoyo	yoyo
+bawuk	crooked
+gurod gurod	corrugated
+limon	circle
+utod utod	broken line
+kiling	slant
+tul id	straight
+domingo	sunday
+lunes	monday
+martes	tuesday
+mirkules	wednesday
+huybis	thursday
+birnis	friday
+sabado	saturday
+enero	january
+pebrero	february
+marso	march
+abril	april
+mayo	may
+hunyo	june
+hulyo	july
+agusto	august
+septembre	september
+oktubre	october
+nobembre	november
+desembre	december
+alas dose	noon
+kadlawon	dawn
+tingay duman	midnight
+ting uran	rainy
+ting init	sunny
+hayag	fair
+masirum	dusky
+imingaw	homesick
+yalipay	happy
+yadaman	angry
+nabalaka	worry
+masakitay	painful
+saya	skirt
+blawos	blouse
+sando	undershirt
+kamisita	polo shirt
+dyaket	jacket
+katsupot	short pants
+karsones	pant
+karsones	trouser
+alogbate	spinach
+ampalaya	bitter gourd
+kalamunggay	horseradish
+kamatis	tomato
+sili	chili pepper
+gabi	taro
+ganas	camote tops
+kalabasa	squash
+okra	okra
+petchay	petchay
+repolyo	cabagge
+saluyot	jute
+talong	eggplant
+kangkong	swamp cabbage
+tangad	lemon grass
+sitaw	string beans
+sibiyas	onion
+luy a	ginger
+limonsito	lemon
+bayabas	guava
+bung on	pomelo
+kasoy	cashew
+kaymito	star apple
+durian	durian
+kapayas	papaya
+lansones	lanzones
+mani	peanut
+manga	mango
+nangka	jackfruit
+pinya	pineapple
+saging	banana
+abuhon	gray
+malag	yellow
+asol	blue
+bayulet	violet
+grin	green
+itum	black
+orens	orange
+puwa	red
+rosas	pink
+brown	brown
+bakasyunanan	resort
+bodega	storage
+kantin	canteen
+kapilya	chapel
+simbahan	church
+klasrum	classroom
+klinik	clinic
+husayanan	court
+hampanganan	playground
+eskuylahan	school
+terminal	terminal
+erport	airport
+hotel	hotel
+karinderya	restaurant
+library	library
+opis	office
+ospital	hospital
+hinanganan	factory
+bekeri	bakery
+parkinganan	parking area
+plasa	plaza
+prisuhan	jail
+tindahan	store
+baryo	barangay
+basketbolan	basketball court
+balkon	terrace
+kasilyas	comfort room
+kusina	kitchen
+kwarto	bedroom
+kama	bed
+hagdanan	stairs
+hugasan	labatory
+sala	living room
+bintana	window
+abuhan	furnace
+abaga	shoulder
+agtang	forehead
+alima	hand
+kumagko	thumb
+bat ang	hips
+bitiis	lower leg
+buhok	hair
+bukog	bone
+bukton	arms
+dila	tongue
+dughan	chest
+hawak	waist
+mata	eyes
+tudlo	point finger
+king kimg	pinky finger
+kuko	nails
+lubot	buttocks
+lapa lapa	sole
+likud	back
+liug	neck
+unto	tooth
+paa	thigh
+panit	skin
+pad	palm
+piruk	eyelash
+pusod	navel
+siki	foot
+siko	elbow
+susu	breast
+suwang	chin
+talinga	ear
+tangkugo	nape
+tiyan	tummy
+tikud	heel
+tuhod	knee
+ugat	vein
+uwo	head
+abil	lips
+bayaw	in law
+ompo	grandmother
+katagsa	cousin
+lumon	brother
+lumon	sister
+kalumunan	relatives
+agila	eagle
+apan	grasshopper
+baboy	pig
+baka	cow
+buaya	crocodile
+banagan	lobster
+kabayo	horse
+kabog	bat
+kanding	goat
+karabaw	carabao
+isda	fish
+sawa	snake
+usa	deer
+baboy halas	wild pig
+karapati	dove
+langgam	bird
+mamang	ant
+bao	turtle
+uhipan	centipede
+wati	worm
+butiki	lizard
+lamok	mosquito
+langaw	fly
+lawa lawa	spider
+aparador	cabinet
+baso	glass
+kurtina	curtain
+katre	bed
+karaha	frying pan
+kutsilyo	knife
+brip	brief
+panti	panty
+kapote	raincoat
+kaguran	coconut gritter
+kalan	stove
+kaldero	keetle
+kulentas	necklace
+lamesa	table
+lata	can
+lampaso	scrub
+payong	umbrella
+plato	plate
+rosaryo	rosary
+relo	watch
+sapatos	shoes
+tsinelas	slippers
+tadtadan	chopping board
+tasa	cup
+sandok	laddle
+panaksan	bowl
+papel	paper
+purseras	bracelet
+planggana	basin
+petaka	purse
+uno	one
+duha	two
+adi kaw	come here
+kadto sidto	go there
+unan sa ngaran mo	what is your name
+hain kaw gahuya	where do you live
+yakagtang ang iso	the child fell down
+yagkaan da kaw	did you eat
+hain na skwelahan	in what school
+amo yaan bay mayo	is that your house
+raatay kaw	you re ugly
+hain kaw sa	where are you
+unan kuno laong naan	what did she say
+kinamagurangan kaw	are you the eldest
+pila kanmo edad	how old are you
+sin o sa kadi maestra mayo	who is your teacher
+yag uran	its raining
+unan utan mo	what is your vian
+mangaligo kita	let s take a bath
+unan petsa doon	what date today
+magbasa da kita	let s read
+adto yaan sa bay	he is at the house
+yag uno kaw	what are you doing
+gaandam ako ng pagkaan	i m preparing food
+kanino sa iyan pagkaan ang iandam mo	whose food are you preparing
+unan ng pagkaan ang iluto mo	what food are you preparing
+yapalit ko ini sa tindahan	i got it from store
+kagan o mo sa ini ipalit	when did you buy it
+hain kaw sa gikan	where did you come from
+kagan o kaw yagabot	when did you arrive
+kabakakan	a lie
+simple na utaw	unsophisticated person
+wara	zero
+uno	one
+dos	two
+tres	three
+kwatro	four
+singko	five
+sayes	six
+site	seven
+otso	eight
+nuybe	nine
+diyes	ten
+onsi	eleven
+dosi	twelve
+tresi	thirteen
+katorse	fourteen
+kinsi	fifteen
+disisayes	sixteen
+disisite	seventeen
+disiotso	eighteen
+disinuybi	nineteen
+bayente	twenty
+bayente uno	twenty one
+bayente dos	twenty two
+bayente tres	twenty three
+bayente kwatro	twenty four
+bayente singko	twenty five
+bayente sais	twenty six
+bayente syete	twenty seven
+bayente otso	twenty eight
+bayente nuybi	twenty nine
+trayenta	thirty
+trayentay uno	thirthy one
+trayentay dos	thirthy two
+trayentay tres	thirthy three
+trayentay kwatro	thirthy four
+trayentay singko	thirthy five
+trayentay sais	thirthy six
+trayentay siyete	thirthy seven
+trayentay otso	thirthy eight
+trayentay nuybi	thirthy nine
+kwarenta	forty
+kwarentay uno	forty one
+kwarentay dos	forty two
+kwarentay tres	forty three
+kwarentay kwatro	forty four
+kwarentay singko	forty five
+kwarentay sais	forty six
+kwarentay syete	forty seven
+kwarentay otso	forty eight
+kwarentay nuybi	forty nine
+singkwenta	fifty
+singkwentay uno	fifty one
+singkwentay dos	fifty two
+singkwentay tres	fifty three
+singkwentay kwatro	fifty four
+singkwentay singko	fifty five
+singkwentay sais	fifty six
+singkwentay syete	fifty seven
+singkwentay otso	fifty eight
+singkwentay nuybi	fifty nine
+saysenta	sixty
+saysentay uno	sixty one
+saysentay dos	sixty two
+saysentay tres	sixty three
+saysentay kwatro	sixty one
+saysentay singko	sixty one
+saysentay sais	sixty one
+saysentay syete	sixty one
+saysentay otso	sixty one
+saysentay nuybi	sixty one
+sitenta	seventy
+sitentay uno	seventy one
+sitentay dos	seventy one
+sitentay tres	seventy one
+sitentay kwatro	seventy one
+sitentay singko	seventy one
+sitentay sais	seventy one
+sitentay syete	seventy one
+sitentay otso	seventy one
+sitentay nuybi	seventy one
+otsenta	eighty
+otsentay uno	eighty one
+otsentay dos	eighty two
+otsentay tres	eighty three
+otsentay kwatro	eighty four
+otsentay singko	eighty five
+otsentay sais	eighty six
+otsentay syete	eighty seven
+otsentay otso	eighty eight
+otsentay nuybi	eighty nine
+nubenta	ninety
+noubentay uno	ninety one
+noubentay dos	ninety two
+noubentay tres	ninety one
+noubentay kwatro	ninety one
+noubentay singko	ninety one
+noubentay sais	ninety one
+noubentay syete	ninety one
+noubentay otso	ninety one
+noubentay nuybi	ninety one
+isakagatos	one hundred
+ining mga	these
+ini	this
+idtong mga	those
+kami	we
+ikaw	you
+kamayo	yours
+kaniran	theirs
+unan	what
+hain	where
+nanga sa	why
+unan kadaig	how much
+unan kadaig	how many
+yalipayay	happily
+mapaspas	quikly
+yamug ot	sadly
+hinay hinay	slowly
+kagab i	yesterday
+yaaging adlaw	day before yesterday
+sunod adlaw	day after tomorrow
+dugay pa	far in the past
+duol da	near past
+maya da	later
+sayo sa buntag	early morning
+gikan sa	from
+sa ibabaw sa	on top of
+ubos ng	under
+sud	inside
+sa tunga	in the middle
+sa taas	up
+sa taas	above
+sa dawom	down there
+sa	at
+lain pa	other
+hurot	all
+lahi	different
+lain	another
+sakto ra	enough
+insakto ra	correct
+karaan	old
+lubak lubak	bumpy
+humok	soft
+isa ra gayud	only
+yag isa	alone
+mapasuay	very hot
+matignaw	cool
+matignaway	cold
+aroy asawa	married
+way asawa	unmarried
+mahait	sharp
+habol	dull
+gabok	rotten
+presko	fresh
+yalibog	confused
+braytay	smart
+braytay	clever
+pagkahabaay	long
+pagkahabaay	tall
+tabaay	fat
+gamay da	few
+daigay	many
+amigo	friend
+amiga	friend
+hadok	fear
+bunga	fruit
+atay	liver
+kalibanga	diarrhea
+kan on	rice
+palaka	frog
+ugangan na bobay	mother in law
+ugangann na usog	father in law
+bulan	moon
+bituon	start
+bundok	mountain
+tamnanan	field
+batasan	attitude
+bana	husband
+asawa	wife
+anak na usog	son
+anak na bobay	daughter
+bata na gamay	infant
+tiya	aunt
+tiyo	uncle
+balhibo	feather
+lupa	ground
+buslot	hole
+kasingkasing	heart
+panganod	cloud
+dugo	blood
+itlog	egg
+hayop	animals
+dekorasyon	decoration
+barel	barrel
+pagtahi	to sew
+pagsusi	to know
+yasakit	to be sick
+madayaw ang lawas	to be healthy
+tawagan	to call
+aron ihunghung ko	to whisper
+gahubag	to swell
+pobre	poor
+dato	rich
+way sud	empty

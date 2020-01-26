@@ -9,10 +9,10 @@ import numpy as np
 import os
 
 BATCH_SIZE = 64
-NUM_EPOCHS = 200
+NUM_EPOCHS = 100
 HIDDEN_UNITS = 256
-NUM_SAMPLES = 1700
-MAX_VOCAB_SIZE = 1700
+NUM_SAMPLES = 13050
+MAX_VOCAB_SIZE = 13050
 ROOT_DIR = os.path.abspath(os.curdir)
 DATA_PATH = ROOT_DIR + '/translator_train/data/kamayo-to-english.txt'
 WEIGHT_FILE_PATH = ROOT_DIR + '/translator_train/models/kamayo-to-eng/kamayo-to-eng-word-weights.h5'

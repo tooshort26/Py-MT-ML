@@ -3,14 +3,14 @@ from flask import Flask, request, send_from_directory, redirect, render_template
     make_response, abort
 
 from googletrans import Translator
-from .eng_to_kamayo_word_translator_predict import EngToKamayoTranslator
-from .kamayo_to_eng_word_translator_predict import KamayoToEngTranslator
-from .kamayo_to_ceb_word_translator_predict import KamayoToCebTranslator
-from .ceb_to_kamayo_word_translator_predict import CebToKamayoTranslator
-# from eng_to_kamayo_word_translator_predict import EngToKamayoTranslator
-# from kamayo_to_eng_word_translator_predict import KamayoToEngTranslator
-# from kamayo_to_ceb_word_translator_predict import KamayoToCebTranslator
-# from ceb_to_kamayo_word_translator_predict import CebToKamayoTranslator
+# from .eng_to_kamayo_word_translator_predict import EngToKamayoTranslator
+# from .kamayo_to_eng_word_translator_predict import KamayoToEngTranslator
+# from .kamayo_to_ceb_word_translator_predict import KamayoToCebTranslator
+# from .ceb_to_kamayo_word_translator_predict import CebToKamayoTranslator
+from eng_to_kamayo_word_translator_predict import EngToKamayoTranslator
+from kamayo_to_eng_word_translator_predict import KamayoToEngTranslator
+from kamayo_to_ceb_word_translator_predict import KamayoToCebTranslator
+from ceb_to_kamayo_word_translator_predict import CebToKamayoTranslator
 
 app = Flask(__name__)
 app.config.from_object(__name__)  # load config from this file , flaskr.py

@@ -12332,3 +12332,736 @@ aparador	kabinet
 mapaso	init
 maripa	hugaw
 maduggom	kangitngit
+ako	ako
+ikaw	ikaw
+kanak	ako
+kanato	ato
+kaniran	kanila
+sian	siya
+sian	siya
+kanmo	imo
+kaan	kaon
+turo	tulog
+dagan	dagan
+panik	mosulod
+yahigugma	nahigugma
+panaw	lakas
+tanaw	tanaw
+hawid	hikap
+yadungog	nadungog
+yakalingaw	nakalimot
+yahingaw	nahubog
+yahuog	nahagbong
+hikowo	katawa
+tiyaho	hilak
+gihud	kuyog
+tiyab	sulti
+matigam	maantigo
+yaghikay	pagandam
+daigay	daghan
+daigay	daghan
+badi	daku
+badihay	daku kaayo
+gwapa	gwapa
+gwapahay	gwapahay
+gamay	gamay
+gamay	gamay
+gamayay	gamay kaayo
+hinood	tigulang
+kusogay	kusog
+bugatay	bugat
+maraat	maot
+maraat	ngilad
+maraatay	maot kaayo
+gawot	dawo
+gawot	hakog
+tignaw	tugnaw
+mapaso	mainit
+harapit	duol
+harayo	halayo
+maripa	hugaw
+maduggom	mangitngit
+duon	karon
+kisuom	ugma
+duom	gabii
+duom	gabii
+yaan	kana
+ini	kini
+kagabi	gahapon
+samukay	yagaw
+gaya da	unya na
+sa dangay	dili na
+nanga sa	ngano
+uno sa	unsa
+wara	wala
+wara da	wala na
+hambong	hapon
+sugba	sugba
+here	dito
+here	dito
+there	doon
+nothing	wala
+nothing	wala
+have	meron
+maybe	baka
+put	lagay
+where	saan
+that	ayon
+i dont know	ewan
+this	ito
+this	ito
+that is	ayan
+take	kuha
+when	kailan
+good	mabuti
+ugly	pangit
+why	bakit
+how much	magkano
+who	sino
+who	sino
+give	bigay
+how	paano
+none	wala
+child	bata
+nose	ilong
+yes	oo
+no	hindi
+face	mukha
+hand	kamay
+foot	paa
+thigh	hita
+opaw	opaw
+kompyuter	kompyuter
+selpon	selpon
+laptop	laptop
+plato	plato
+yagkanta	kanta
+yasayaw	sayaw
+habol	habol
+bangko	bangko
+bintana	bintana
+ambaw	daga
+ayuk	aswang
+yadaman	nasuko
+hang	halang
+yahadok	nahadlok
+putot	putot
+huya	puyo
+inday	ambot
+yadungog	nadungog
+bukid	bukid
+isu	bata
+kanmo	imo
+kanami	amo
+kanaan	iya
+kanaan	iya
+hug	nahulog
+kuding	pusa
+ido	iro
+sili	sili
+kanak	ako
+kahadukan	kahadlokan
+ikuha	kuha
+kaig	payat
+yakalingaw	nakalimot
+siki	tiil
+yaggukod	gukod
+ton	tulon
+laong	ingon
+lang a	ingna
+butong	butong
+maraat	maot
+maripa	hugaw
+yawara	nawala
+tug	tulog
+masipog	maulaw
+klarohay	tin aw
+magtagad	paghulat
+matiyab	tabian
+isug	isug
+brayt	brayt
+malisud	lisod
+pangan	pangalan
+sipug	ulaw
+sandok	sandok
+dung ag	lung ag
+sirib	silib
+yapagod	sunog
+utan	sud an
+hatagi	hatag
+tigam	kabalo
+uwan	ulan
+yawa	nawala
+yadaman	nasuko
+gatiyahu	gahilak
+yagpanaw	nilakaw
+yagkamang	gakamang
+bayot	bayot
+maestra	maestra
+maestro	maestro
+daraga	dalaga
+ulitawo	ulitawo
+editor	editor
+calculator	calculator
+x ray	x ray
+zipper	zipper
+wifi	wifi
+mga utaw	mga tao
+abre	abli
+biya	biya
+basa	basa
+dayaw	hipos
+dakop	dakop
+dapay	laparu
+dagpi	hapak
+katkat	katkat
+drowing	dibuho
+kita	kita
+kagud	kudkud
+laba	laba
+lakso	lukso
+lugpat	layog
+langoy	langoy
+panaw	lakaw
+sugbo	ligo
+palit	palit
+panaw	lakaw
+sayaw	sayaw
+sira	sira
+sukbot	sul ob
+suwat	sulat
+tan aw	tan aw
+tuon	tudlo
+tugpa	lukso
+tuon	tuon
+turog	tulog
+karsada	kalsada
+abil	lips
+bayhu	nawong
+hatsa	hatsa
+tubo	tubo
+unggoy	unggoy
+ambaw	ilaga
+awug	sapa
+samin	samin
+espiso	espiso
+atubangan	atubangan
+engkantada	engkantada
+ikug	ikog
+idi	dia
+irung	ilong
+irok	ilok
+pasayan	pasayan
+ompu	lolo
+isbog	isbog
+utok	utok
+utod	putol
+bado	sinina
+baroto	bangka
+batiis	tiil
+burak	bulak
+burad	bulad
+daig	daghan
+diri	dili
+lasang	lasang
+ginamos	gamos
+ugat	ugat
+hurot	tanan
+hurmigas	amigas
+humay	humay
+hatsa	hatsa
+harigi	haligi
+kagang	alimango
+kiray	kilay
+kamang	kamang
+kisum	ugma
+lanot	lanot
+lamparilya	lamparilya
+palengke	palengke
+magurang	guwang
+baliti	baliti
+nigo	nigo
+kabaw	kabaw
+ngilo	lagos
+ngaon	diha
+ngisi	ngisi
+ngadi	diri
+ngaran	ngalan
+payag	payag
+bukog	bukog
+piyagit	singgit
+buak	buak
+rabak	labay
+guba	guba
+raspa	gupit
+rabnot	giilog
+taklob	taklob
+sudlay	sudlay
+samad	samad
+sinturon	bakos
+sagbot	sagbot
+suwa	suwa
+tabako	tabako
+tibuok	tibuok
+turong	pandong
+tirador	pintik
+tipasi	tipasi
+tilaw	tilaw
+wati	wati
+wakwak	ungo
+yahukad	nayabo
+yoyo	yoyo
+bawuk	balikog
+gurod gurod	kurod kurod
+limon	lingin
+utod utod	putol putol
+kiling	takilid
+tul id	tul id
+domingo	domingo
+lunes	lunes
+martes	martes
+mirkules	miyerkules
+huybis	huwebes
+birnis	biyernis
+sabado	sabado
+enero	enero
+pebrero	pebrero
+marso	marso
+abril	abril
+mayo	mayo
+hunyo	hunyo
+hulyo	hulyo
+agusto	agosto
+septembre	septiyembre
+oktubre	oktubre
+nobembre	nobyembre
+desembre	disyembre
+alas dose	udto
+kadlawon	kaadlawon
+tingay duman	tungang gabii
+ting uran	ting ulan
+ting init	ting init
+hayag	hayag
+masirum	ngitngit
+imingaw	mingaw
+yalipay	lipay
+yadaman	suko
+nabalaka	nabalaka
+masakitay	ngut ngot
+saya	sayal
+blawos	blusa
+sando	sando
+kamisita	kamisandentro
+dyaket	jacket
+katsupot	purol
+karsones	pantalon
+karsones	pantalon
+alogbate	alugbati
+ampalaya	ampalaya
+kalamunggay	kamunggay
+kamatis	kamatis
+sili	sili
+gabi	gabi
+ganas	ganas
+kalabasa	kalabasa
+okra	okra
+petchay	petsay
+repolyo	repolyo
+saluyot	saluyot
+talong	talong
+kangkong	tangkong
+tangad	tanglad
+sitaw	batong
+sibiyas	sibuyas
+luy a	luy a
+limonsito	lemonsito
+bayabas	bayabas
+bung on	bung on
+kasoy	kasoy
+kaymito	kaymito
+durian	durian
+kapayas	kapayas
+lansones	lanzones
+mani	mani
+manga	manga
+nangka	langka
+pinya	pinya
+saging	saging
+abuhon	abuhon
+malag	dulaw
+asol	asull
+bayulet	bayoleta
+grin	berde
+itum	itom
+orens	kahil
+puwa	pula
+rosas	rosas
+brown	tabunon
+bakasyunanan	bakasyunan
+bodega	bodega
+kantin	kan anan
+kapilya	kapilya
+simbahan	simbahan
+klasrum	klasrum
+klinik	klinik
+husayanan	korte
+hampanganan	dulaanan
+eskuylahan	eskwelahan
+terminal	hunonganan
+erport	erport
+hotel	otel
+karinderya	karinderya
+library	basahanan
+opis	opisina
+ospital	ospital
+hinanganan	pabrika
+bekeri	panaderya
+parkinganan	parkingan
+plasa	plasa
+prisuhan	bilanggoan
+tindahan	tindahan
+baryo	baryo
+basketbolan	basketbolan
+balkon	balkon
+kasilyas	kasilyas
+kusina	kusina
+kwarto	kuwarto
+kama	kama
+hagdanan	hagdanan
+hugasan	lababo
+sala	sala
+bintana	bintana
+abuhan	abuhan
+abaga	abaga
+agtang	agtang
+alima	kamot
+kumagko	kumagko
+bat ang	dapi dapi
+bitiis	bitiis
+buhok	buhok
+bukog	bukog
+bukton	bukton
+dila	dila
+dughan	dughan
+hawak	hawak
+mata	mata
+tudlo	tudlo
+king kimg	kumingking
+kuko	kuko
+lubot	lubot
+lapa lapa	lapa lapa
+likud	likod
+liug	liog
+unto	ngipon
+paa	paa
+panit	panit
+pad	palad
+piruk	pilok
+pusod	pusod
+siki	tiil
+siko	siko
+susu	totoy
+suwang	suwang
+talinga	dalunggan
+tangkugo	tangkugo
+tiyan	tiyan
+tikud	tikod
+tuhod	tuhod
+ugat	ugat
+uwo	ulo
+abil	ngabil
+bayaw	bayaw
+ompo	lola
+katagsa	ig agaw
+lumon	igsoon
+lumon	igsoon
+kalumunan	kaparentihan
+agila	agila
+apan	apan
+baboy	baboy
+baka	baka
+buaya	buwaya
+banagan	banagan
+kabayo	kabayo
+kabog	kabog
+kanding	kanding
+karabaw	kalabaw
+isda	isda
+sawa	halas
+usa	usa
+baboy halas	baboy halas
+karapati	kalapati
+langgam	langgam
+mamang	amigas
+bao	bao
+uhipan	uhipan
+wati	wati
+butiki	tiki
+lamok	lamok
+langaw	langaw
+lawa lawa	lawa lawa
+aparador	aparador
+baso	baso
+kurtina	kurtina
+katre	katre
+karaha	kalaha
+kutsilyo	kutsilyo
+brip	karsinilyo
+panti	panti
+kapote	kapote
+kaguran	kudkuran
+kalan	kalan
+kaldero	kaldero
+kulentas	kuwentas
+lamesa	lamesa
+lata	lata
+lampaso	lampaso
+payong	payong
+plato	plato
+rosaryo	rosaryo
+relo	relo
+sapatos	sapatos
+tsinelas	tsinelas
+tadtadan	tadtaran
+tasa	tasa
+sandok	sandok
+panaksan	panaksan
+papel	papel
+purseras	purseras
+planggana	planggana
+petaka	pitaka
+uno	isa
+duha	duha
+adi kaw	ali sa
+kadto sidto	adto ddto
+unan sa ngaran mo	unsay ngalan nimo
+hain kaw gahuya	taga asa ka
+yakagtang ang iso	nahulog ang bata
+yagkaan da kaw	nagkaon naka
+hain na skwelahan	sa unsa na skwelahan
+amo yaan bay mayo	mao na inyu balay
+raatay kaw	maotay ka
+hain kaw sa	asa ka
+unan kuno laong naan	unsa iya ingon
+kinamagurangan kaw	ikaw ang kinamagulangan
+pila kanmo edad	pila imo edad
+sin o sa kadi maestra mayo	kinsa inyo maestra
+yag uran	gaulan
+unan utan mo	unsa y sud an nimo
+mangaligo kita	mangaligo ta
+unan petsa doon	unsay petsa ron
+magbasa da kita	magbasa ta
+adto yaan sa bay	naa sya sa balay
+yag uno kaw	gaunsa ka
+gaandam ako ng pagkaan	nag andam kos mga pagkaon
+kanino sa iyan pagkaan ang iandam mo	kakinsa mga pagkaon imo g andam
+unan ng pagkaan ang iluto mo	unsa na mga pagkaon imo g andam
+yapalit ko ini sa tindahan	napalit nko ni sa tindahan
+kagan o mo sa ini ipalit	kanus a nimo napalit ni
+hain kaw sa gikan	asa ka gikan
+kagan o kaw yagabot	kanus a ka niabot
+kabakakan	kabakakan
+simple na utaw	simple ra na pagkatao
+wara	wala
+uno	usa
+dos	duha
+tres	tulo
+kwatro	upat
+singko	lima
+sayes	unom
+site	pito
+otso	walo
+nuybe	siyam
+diyes	diyes
+onsi	onse
+dosi	dose
+tresi	trese
+katorse	katorse
+kinsi	kinse
+disisayes	dise sayis
+disisite	dise syete
+disiotso	dise otso
+disinuybi	dise nuybi
+bayente	baynte
+bayente uno	baynte uno
+bayente dos	baynte dos
+bayente tres	baynte tres
+bayente kwatro	baynte kwatro
+bayente singko	baynte singko
+bayente sais	baynte sayes
+bayente syete	baynte syete
+bayente otso	baynte otso
+bayente nuybi	baynte nuybi
+trayenta	traynta
+trayentay uno	trayntay uno
+trayentay dos	trayntay dos
+trayentay tres	trayntay tres
+trayentay kwatro	trayntay kwatro
+trayentay singko	trayntay singko
+trayentay sais	trayntay sayes
+trayentay siyete	trayntay syete
+trayentay otso	trayntay otso
+trayentay nuybi	trayntay nuybi
+kwarenta	kuwarenta
+kwarentay uno	kuwarentay uno
+kwarentay dos	kuwarentay dos
+kwarentay tres	kuwarentay tres
+kwarentay kwatro	kuwarentay kwatro
+kwarentay singko	kuwarentay singko
+kwarentay sais	kuwarentay sayes
+kwarentay syete	kuwarentay syete
+kwarentay otso	kuwarentay otso
+kwarentay nuybi	kuwarentay nuybi
+singkwenta	singkuwenta
+singkwentay uno	singkuwentay uno
+singkwentay dos	singkuwentay dos
+singkwentay tres	singkuwentay tres
+singkwentay kwatro	singkuwentay kwatro
+singkwentay singko	singkuwentay singko
+singkwentay sais	singkuwentay sayes
+singkwentay syete	singkuwentay syete
+singkwentay otso	singkuwentay otso
+singkwentay nuybi	singkuwentay nuybi
+saysenta	saysenta
+saysentay uno	saysentay uno
+saysentay dos	saysentay dos
+saysentay tres	saysentay tres
+saysentay kwatro	saysentay kwatro
+saysentay singko	saysentay singko
+saysentay sais	saysentay sayes
+saysentay syete	saysentay syete
+saysentay otso	saysentay otso
+saysentay nuybi	saysentay nuybi
+sitenta	sitenta
+sitentay uno	sitentay uno
+sitentay dos	sitentay dos
+sitentay tres	sitentay tres
+sitentay kwatro	sitentay kwatro
+sitentay singko	sitentay singko
+sitentay sais	sitentay sayes
+sitentay syete	sitentay syete
+sitentay otso	sitentay otso
+sitentay nuybi	sitentay nuybi
+otsenta	otsenta
+otsentay uno	otsentay uno
+otsentay dos	otsentay dos
+otsentay tres	otsentay tres
+otsentay kwatro	otsentay kwatro
+otsentay singko	otsentay singko
+otsentay sais	otsentay sayes
+otsentay syete	otsentay syete
+otsentay otso	otsentay otso
+otsentay nuybi	otsentay nuybi
+nubenta	nobenta
+noubentay uno	nobentay uno
+noubentay dos	nobentay dos
+noubentay tres	nobentay tres
+noubentay kwatro	nobentay kwatro
+noubentay singko	nobentay singko
+noubentay sais	nobentay sayes
+noubentay syete	nobentay syete
+noubentay otso	nobentay otso
+noubentay nuybi	nobentay nuybi
+isakagatos	isa kagatos
+ining mga	kanang mga
+ini	kini
+idtong mga	kadtong mga
+kami	kami
+ikaw	ikaw
+kamayo	inyo
+kaniran	ila
+unan	unsa
+hain	asa
+nanga sa	nganu
+unan kadaig	pila man
+unan kadaig	pila man
+yalipayay	grabi ka lipay
+mapaspas	paspas
+yamug ot	mug ot
+hinay hinay	hinay hinay
+kagab i	kagahapon
+yaaging adlaw	niaging adlaw
+sunod adlaw	sunod adlaw
+dugay pa	dugay pa
+duol da	duol
+maya da	unya
+sayo sa buntag	sayo sa buntag
+gikan sa	gikan sa
+sa ibabaw sa	sa taas sa
+ubos ng	ubos
+sud	sulod
+sa tunga	sa tunga
+sa taas	sa taas
+sa taas	sa taas
+sa dawom	sa ubos
+sa	sa
+lain pa	lain pa
+hurot	tanan
+lahi	lahi
+lain	lain
+sakto ra	sakto
+insakto ra	tama
+karaan	daan
+lubak lubak	lubak lubak
+humok	humok
+isa ra gayud	isa ra gyud
+yag isa	inusara
+mapasuay	grabi ka init
+matignaw	tugnaw
+matignaway	tugnaway
+aroy asawa	naay asawa
+way asawa	way asawa
+mahait	hait
+habol	habol
+gabok	gabok
+presko	presko
+yalibog	galibog
+braytay	brayt
+braytay	brayt
+pagkahabaay	taas
+pagkahabaay	taas
+tabaay	tambok
+gamay da	gamay ra
+daigay	daghan
+amigo	amigo
+amiga	amiga
+hadok	hadlok
+bunga	bunga
+atay	atay
+kalibanga	kalibanga
+kan on	kan on
+palaka	palaka
+ugangan na bobay	ugangan na bae
+ugangann na usog	ugangan na laki
+bulan	bulan
+bituon	bituon
+bundok	bundok
+tamnanan	tamnanan
+batasan	batasan
+bana	bana
+asawa	asawa
+anak na usog	anak na laki
+anak na bobay	anak na bae
+bata na gamay	bata
+tiya	ante
+tiyo	angkol
+balhibo	balhibo
+lupa	lupa
+buslot	buslot
+kasingkasing	puso
+panganod	cloud
+dugo	dugo
+itlog	itlog
+hayop	hayop
+dekorasyon	dekorasyon
+barel	barel
+pagtahi	pagtahi
+pagsusi	para makabalo
+yasakit	nasakit
+madayaw ang lawas	para himsog
+tawagan	tawagan
+aron ihunghung ko	naa koy ihunghung
+gahubag	gahubag
+pobre	pbre
+dato	dato
+way sud	way sulod
